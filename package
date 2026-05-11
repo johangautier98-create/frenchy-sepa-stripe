@@ -1,0 +1,16 @@
+{
+  "name": "frenchy-sepa-stripe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "stripe": "^17.5.0"
+  },
+  "devDependencies": {
+    "vercel": "^39.1.3"
+  }
+}
